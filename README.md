@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# 定製項目構建流程
+定製項目構建流程Demo，示範如何限制打包的資源。
