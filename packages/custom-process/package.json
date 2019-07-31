@@ -1,0 +1,12 @@
+{
+    "name": "custom-process",
+    "version": "0.0.1",
+    "description": "The package template for getting started.",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "Packages/Hello World": {
+            "message": "custom-process:say-hello"
+        }
+    }
+}
